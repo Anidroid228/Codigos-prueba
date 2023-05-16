@@ -1,0 +1,7 @@
+#include <cstdlib>
+
+int main() {
+    // Reiniciar el PC
+    system("shutdown -r");
+    return 0;
+}
